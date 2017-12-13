@@ -1,0 +1,14 @@
+body{
+  margin: 30px;
+  background-image: url('sports.png');
+}
+header{
+  display: flex;
+  justify-content: space-around;
+}
+main{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
